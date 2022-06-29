@@ -12,4 +12,4 @@ This command view all remote URLs next to their corresponding short names
 
 Some examples were given to illustrate the codes.
 
-Please follow this link for the live URL to my website: 
+Please follow this link for the live URL to my website: https://github.com/timothee2022/class3.git
